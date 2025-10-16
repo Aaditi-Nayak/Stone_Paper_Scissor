@@ -15,5 +15,4 @@ Play against the computer and see if you can win!
 
 ## Demo
 
-![Gameplay Demo]("
-demo_video.mp4")
+![Gameplay Demo]("C:\Users\Aadit\OneDrive\Desktop\Stone_Paper_Scissor\demo_video.mp4")
