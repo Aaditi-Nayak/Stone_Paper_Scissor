@@ -13,6 +13,3 @@ Play against the computer and see if you can win!
   - Paper beats Stone
 - The winner is announced after each round.
 
-## Demo
-
-![Gameplay Demo]("C:\Users\Aadit\OneDrive\Desktop\Stone_Paper_Scissor\demo_video.mp4")
