@@ -16,4 +16,4 @@ Play against the computer and see if you can win!
 ## Demo
 
 ![Gameplay Demo]("
-demo_video.gif")
+demo_video.mp4")
